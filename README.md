@@ -13,7 +13,7 @@
 
 ### 🛠️ Skills & Tools:
 - **Languages:** C++ (OOP, Data Structures basics in progress)
-- **Tools:** Code::Blocks, GitHub, Online Compilers
+- **Tools:** Code::Blocks, GitHub, 
 - **Learning Next:** Flutter (Mobile Development), Dart, Git/GitHub advanced
 
 ---
