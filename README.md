@@ -14,7 +14,7 @@
 
 ## 🌐 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/mohamed-magdy" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-magdy-b31699381)  
 <a href="https://t.me/YourTelegramUserName" target="blank"><img align="center" src="https://skillicons.dev/icons?i=telegram" alt="telegram" height="40" /></a>
 </p>
 
