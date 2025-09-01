@@ -5,38 +5,37 @@
 
 ---
 
-- 🌱 Currently learning **C++, OOP, Data Structures & Flutter**
-- 💡 Interested in **Problem Solving & Mobile Applications**
-- 🚀 My goal: **Build powerful apps & grow as a freelancer**
-- 📫 Reach me: **mohamed.magdy@example.com**
+### 🌱 About Me
+- Currently learning **C++, OOP, Data Structures & Flutter**  
+- Passionate about **problem solving & mobile app development**  
+- Goal: **Build powerful apps & grow as a freelancer**  
+- Always improving and exploring new technologies  
 
 ---
 
-## 🌐 Connect with me:
+### 🔗 Connect with me
 <p align="left">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-magdy-b31699381)  
-<a href="https://t.me/YourTelegramUserName" target="blank"><img align="center" src="https://skillicons.dev/icons?i=telegram" alt="telegram" height="40" /></a>
+<a href="https://linkedin.com/in/mohamed-magdy-b31699381" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" />
+</a>
+<a href="https://github.com/mohamed-magdy" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40" />
+</a>
 </p>
 
 ---
 
-## 💻 Tech Stack:
+### 💻 Tech Stack
 <p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,flutter,dart,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=cpp,dart,flutter,git,github,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats:
+### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="langs" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=mohamed-magdy&show_icons=true&theme=radical" alt="stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-magdy&theme=radical" alt="streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-
 
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=YOUR_GITHUB_USERNAME&icon=0&color=12" alt="visitors" />
-</p>
 
